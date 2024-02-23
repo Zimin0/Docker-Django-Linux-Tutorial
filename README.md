@@ -80,6 +80,8 @@ chmod +r directory/.../static
 chmod +r directory
 ```
 ## 4) Remember to adjust file paths and other specifics as needed for your actual setup!
+## 5) SSL 
+https://www.8host.com/blog/poluchenie-ssl-sertifikatov-s-pomoshhyu-certbot/z
 
 ## Useful Commands:
 * sudo systemctl reload nginx
